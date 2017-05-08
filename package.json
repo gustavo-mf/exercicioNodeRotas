@@ -1,0 +1,24 @@
+{
+  "name": "noderotas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo-mf/exercicioNodeRotas.git"
+  },
+  "author": "Gustavo-mf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo-mf/exercicioNodeRotas/issues"
+  },
+  "homepage": "https://github.com/gustavo-mf/exercicioNodeRotas#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
